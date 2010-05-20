@@ -4,23 +4,41 @@ from google.appengine.api import users
 from google.appengine.ext import db
 
 
+class AlertCollection(db.Model):
+	name = db.StringProperty()
+#	icon
+
+#	visibility = db.ListProperty(db.UserProperty())
+#	edit = db.ListProperty(db.UserProperty())
+#	admin = db.ListProperty(db.UserProperty())
+
+
 class Alert(db.Model):
 	autor = db.UserProperty()
-	desc = db.StringProperty(multiline=True)
-	fecha = db.DateTimeProperty(auto_now_add=True)
-	pos = db.GeoPtProperty()
+	description = db.StringProperty(multiline=True)
+	date = db.DateTimeProperty(auto_now_add=True)
+	position = db.GeoPtProperty()
+
+	collection = db.ReferenceProperty(AlertCollection, collection_name='alerts')
 
 
+# AlertManager
 class AlertManager(webapp.RequestHandler):
 
 	def post(self):
-		alert = Alert()
+		alert = Alert(autor			= users.get_current_user(),
+						description	= self.request.get('description'),
+						position	= db.GeoPt(self.request.get('latitud'), self.request.get('longitud')))
 
-		if users.get_current_user():
-			alert.autor = users.get_current_user()
+		collection = self.request.get('collection')
+		alerts = AlertCollection.all().get()
+		if(alerts
+		and collection in alerts.name):
+			collection = AlertCollection.gql("WHERE name = :1", collection).get()
+		else:
+			collection = AlertCollection(name=collection).put()
+		alert.collection = collection
 
-		alert.desc = self.request.get('descripcion');
-		alert.pos = db.GeoPt(self.request.get('latitud'), self.request.get('longitud'))
 		alert.put()
 
 
@@ -30,11 +48,13 @@ class AlertManager(webapp.RequestHandler):
 		self.response.out.write("<markers>\n")
 
 		for alert in alerts:
-			alert = str(alert.pos).split(",")
+			position = str(alert.position).split(",")
 
 			self.response.out.write('<marker')
-			self.response.out.write(' lat="' + alert[0] + '"')
-			self.response.out.write(' lon="' + alert[1] + '"')
+			self.response.out.write(' latitud="' + position[0] + '"')
+			self.response.out.write(' longitud="' + position[1] + '"')
+			if alert.collection:
+				self.response.out.write(' collection="' + alert.collection.name + '"')
 			self.response.out.write('/>')
 
 		self.response.out.write("</markers>\n")
