@@ -1,4 +1,3 @@
-var geo = google.gears.factory.create('beta.geolocation');
 var tooltip;
 var current_location = new GLatLng(37.4419, -122.1419);
 //var current_location = null;
@@ -89,6 +88,8 @@ function LoadAlerts()
 					);
 }
 
+
+//var geo = google.gears.factory.create('beta.geolocation');
 
 //function UpdatePosition(position)
 //{
