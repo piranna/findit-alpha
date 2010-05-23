@@ -1,6 +1,7 @@
 var geo = google.gears.factory.create('beta.geolocation');
 var current_location = null;
 
+
 function UpdatePosition(position)
 {
 //	// Show message (debug)
@@ -30,5 +31,6 @@ function handleError(positionError)
 	if(!current_location)
 		current_location = new GLatLng(37.4419, -122.1419);
 }
+
 
 geo.watchPosition(UpdatePosition, handleError, {enableHighAccuracy: true});
