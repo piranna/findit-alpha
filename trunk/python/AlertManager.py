@@ -3,51 +3,35 @@ from google.appengine.ext import webapp
 from google.appengine.api import users
 from google.appengine.ext import db
 
-
-class AlertCollection(db.Model):
-	name = db.StringProperty()
-#	icon
-
-#	visibility = db.ListProperty(db.UserProperty())
-#	edit = db.ListProperty(db.UserProperty())
-#	admin = db.ListProperty(db.UserProperty())
+from AlertManager_structures import *
 
 
-class Alert(db.Model):
-	autor = db.UserProperty()
-	description = db.StringProperty(multiline=True)
-	date = db.DateTimeProperty(auto_now_add=True)
-	position = db.GeoPtProperty()
-
-	collection = db.ReferenceProperty(AlertCollection, collection_name='alerts')
-
-
-# AlertManager
 class AlertManager(webapp.RequestHandler):
 
 	def post(self):
+		# Create new alert
 		alert = Alert(autor			= users.get_current_user(),
 						description	= self.request.get('description'),
 						position	= db.GeoPt(self.request.get('latitud'), self.request.get('longitud')))
 
+		# Set alert collection
 		collection = self.request.get('collection')
-		alerts = AlertCollection.all().get()
+		alerts = Alert_Collection_Folder.all().get()
 		if(alerts
 		and collection in alerts.name):
-			collection = AlertCollection.gql("WHERE name = :1", collection).get()
+			collection = Alert_Collection_Folder.gql("WHERE name = :1", collection).get()
 		else:
-			collection = AlertCollection(name=collection).put()
+			collection = Alert_Collection_Folder(name=collection).put()
 		alert.collection = collection
 
+		# Store alert
 		alert.put()
 
 
 	def get(self):
-		alerts = db.GqlQuery("SELECT * FROM Alert")
-
 		self.response.out.write("<markers>\n")
 
-		for alert in alerts:
+		for alert in Alert.all():
 			position = str(alert.position).split(",")
 
 			self.response.out.write('<marker')
