@@ -39,4 +39,5 @@ window.addEventListener("load",
 							tooltip = document.createElement("div");
 							map.getPane(G_MAP_FLOAT_PANE).appendChild(tooltip);
 							tooltip.style.visibility="hidden";
-						});
+						},
+						false);

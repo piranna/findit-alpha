@@ -13,6 +13,7 @@ window.addEventListener("load",
 						//	map.setCenter(new GLatLng(35.746512,-7.77832), 5);
 							map.setCenter(new GLatLng(37.4419, -122.1419), 2);
 						//	map.setCenter(current_location, 2);
-						});
+						},
+						false);
 
 window.onunload="GUnload()";

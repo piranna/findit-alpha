@@ -19,9 +19,10 @@ class Alert_Icon(db.Model):
 	infoWindowAnchor = db.GeoPtProperty();
 
 
-# Alert_Collection
-class Alert_Collection(polymodel.PolyModel):
-	name = db.StringProperty()
+# AlertCollection
+class AlertCollection(polymodel.PolyModel):
+	title = db.StringProperty()
+	description = db.StringProperty(multiline=True)
 	icon = Alert_Icon()
 
 	collection = db.SelfReferenceProperty(collection_name="subfolders")
@@ -30,22 +31,25 @@ class Alert_Collection(polymodel.PolyModel):
 #	edit = db.ListProperty(db.UserProperty())
 #	admin = db.ListProperty(db.UserProperty())
 
-class Alert_Collection_External(Alert_Collection):
+class AlertCollection_External(AlertCollection):
 	url = db.StringProperty()
 
-class Alert_Collection_Folder(Alert_Collection):
+class AlertCollection_Folder(AlertCollection):
 #	alerts = db.ListProperty(Alert)
-#	subfolders = db.ListProperty(Alert_Collection)
+#	subfolders = db.ListProperty(AlertCollection)
 	pass
 
 
 # Alert
 class Alert(db.Model):
-	icon = Alert_Icon()
-	autor = db.UserProperty()
+	title = db.StringProperty()
 	description = db.StringProperty(multiline=True)
+	icon = Alert_Icon()
+
+	#autor = db.UserProperty()
+
 	date = db.DateTimeProperty(auto_now_add=True)
 	position = db.GeoPtProperty()
 
-	collection = db.ReferenceProperty(Alert_Collection_Folder,
+	collection = db.ReferenceProperty(AlertCollection_Folder,
 										collection_name="alerts")

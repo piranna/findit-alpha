@@ -16,11 +16,13 @@
 		<div id="map_canvas" style="width: 800px; height: 600px;"></div>
 
 		<form>
+			<div>Titulo: <textarea name="title" rows="1" cols="60"></textarea></div>
 			<div>Descripcion: <textarea name="description" rows="1" cols="60"></textarea></div>
 			<div>Latitud: <textarea name="latitud" rows="1" cols="20"></textarea></div>
 			<div>Longitud: <textarea name="longitud" rows="1" cols="20"></textarea></div>
 			<div>Coleccion: <textarea name="collection" rows="1" cols="20"></textarea></div>
-			<div><input type="button" value="Enviar alerta" onclick="AddAlert(description.value, latitud.value,longitud.value,collection.value)"></div>
+			<div><input type="button" value="Añadir Coleccion" onclick="AlertCollection_Add(title.value, description.value, lcollection.value)"></div>
+			<div><input type="button" value="Añadir alerta" onclick="Alert_Add(title.value, description.value, latitud.value,longitud.value,collection.value)"></div>
 		</form>
 	</body>
 </html>
