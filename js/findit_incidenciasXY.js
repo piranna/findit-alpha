@@ -21,22 +21,24 @@ function Load_Incidencias()
 					var xml = GXml.parse(data);
 					var incidencias = xml.documentElement.getElementsByTagName("incidencia");
 
-//					map.clearOverlays();
-
 					// for every incidencia,
 					// get it's coordinates and put mark in the map
-					for(var i = 0; i < incidencias.length; i++)
+					for(var i = 0; i<incidencias.length; i++)
 					{
+						// Get x and y coordinates
 						var x = null;
 						var y = null;
 
 						var childrens = incidencias[i].childNodes;
-						for(var j = 0; j < childrens.length; j++)
+						for(var j = 0;
+							j<childrens.length && !(x && y);
+							j++)
 						{
 							var child = childrens[j];
 
 							if(child.nodeName=="x" && child.childNodes[0])
 								x = child.childNodes[0].nodeValue;
+
 							else if(child.nodeName=="y" && child.childNodes[0])
 								y = child.childNodes[0].nodeValue;
 						};
@@ -45,16 +47,23 @@ function Load_Incidencias()
 						// put mark in the map
 						if(x && y)
 						{
+							// Get coordinates
 							var point = new GLatLng(parseFloat(x),
 													parseFloat(y));
 
-							var incidencia = new GMarker(point, Make_Icon());
+							// Get data and build marker tooltip
 
-							map.addOverlay(incidencia);
+							// Create marker
+							var marker = new GMarker(point, Make_Icon());
+
+							// Add marker to the map
+							map.addOverlay(marker);
 						};
 					}
 				})
 };
 
 
-window.addEventListener("load", Load_Incidencias);
+window.addEventListener("load", Load_Incidencias, false);
+
+map.addEventListener("clearoverlays", Load_Incidencias, false);

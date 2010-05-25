@@ -9,24 +9,20 @@ from AlertManager_structures import *
 class AlertManager(webapp.RequestHandler):
 
 	def post(self):
-		# Create new alert
-		alert = Alert(autor			= users.get_current_user(),
-						description	= self.request.get('description'),
-						position	= db.GeoPt(self.request.get('latitud'), self.request.get('longitud')))
+		command = self.request.get('command')
 
-		# Set alert collection
-		collection = self.request.get('collection')
-		alerts = Alert_Collection_Folder.all().get()
-		if(alerts
-		and collection in alerts.name):
-			collection = Alert_Collection_Folder.gql("WHERE name = :1", collection).get()
-		else:
-			collection = Alert_Collection_Folder(name=collection).put()
-		alert.collection = collection
+		if command == "Alert_Add":
+			self.Add_Alert()
+		
+		elif command == "AlertCollection_Add":
+			command_type = self.request.get('type')
 
-		# Store alert
-		alert.put()
+			if command_type == "external":
+				self.Add_AlertCollection_External()
 
+			elif command_type == "folder":
+				self.Add_AlertCollection_Folder()
+				
 
 	def get(self):
 		self.response.out.write("<markers>\n")
@@ -42,3 +38,53 @@ class AlertManager(webapp.RequestHandler):
 			self.response.out.write('/>')
 
 		self.response.out.write("</markers>\n")
+
+
+	def Add_Alert(self):
+		# Create new alert
+		alert = Alert(	self.request.get('title'),
+						self.request.get('description'),
+						#autor = users.get_current_user(),
+						db.GeoPt(self.request.get('latitud'),
+								self.request.get('longitud')))
+
+		# Set alert icon
+		#self.request.get('icon')
+
+		# Set alert collection
+		collection = self.request.get('collection')
+		alerts = AlertCollection_Folder.all().get()
+		if(alerts
+		and collection in alerts.name):
+			collection = AlertCollection_Folder.gql("WHERE name = :1", collection).get()
+		else:
+			collection = AlertCollection_Folder(name=collection).put()
+		alert.collection = collection
+
+		# Store alert
+		alert.put()
+
+
+	def Add_AlertCollection_External(self):
+		# Create new alert
+		collection = AlertCollection_External(	self.request.get('title'),
+												self.request.get('description'))
+
+		# Set collection icon
+		#self.request.get('icon')
+
+
+		# Store collection
+		collection.put()
+
+
+	def Add_AlertCollection_Folder(self):
+		# Create new alert
+		collection = AlertCollection_Folder(self.request.get('title'),
+											self.request.get('description'))
+
+		# Set collection icon
+		#self.request.get('icon')
+
+		# Store collection
+		collection.put()
