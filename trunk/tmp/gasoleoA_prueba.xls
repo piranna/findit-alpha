@@ -1,0 +1,94 @@
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+	<title>Resultado de b&uacute;squeda de EESS</title>
+    
+</head>
+  
+<body>
+	
+	<table Border='1'>
+		<tr style="height: 66px;">
+			<td colspan = '9'>
+				<img height="66" alt="Logotipo del Ministerio de Industria, Turismo  y Comercio" src="http://geoportal.mityc.es/hidrocarburos/eess/SiteCollectionImages/plantilla/logo_MITYC.png" class="logoMinis"/>
+				<img height="66" alt="Logotipo del Ministerio de Industria, Turismo  y Comercio" src="http://geoportal.mityc.es/hidrocarburos/eess/SiteCollectionImages/cabecera/cabecera_energia.jpg" class="logoMinis"/>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan = '9'><B>Producto: </B>Biodi√©sel</td>
+		</tr>
+		
+		<tr>
+			<td colspan = '9'><B>Fecha: </B>25-05-2010</td>
+		</tr>
+		<tr>
+			<td width="100"><B>Provincia</B></td>
+			<td width="100"><B>Localidad</B></td>
+			<td width="245"><B>Direcci&oacute;n</B></td>
+			<td width="105"><B>Toma de datos</B></td>
+			<td width="50"><B>Precio</B></td>
+			<td width="150"><B>R&oacute;tulo</B></td>
+			<td width="80"><B>Tipo Venta</B></td>
+			<td width="50"><B>Rem.</B></td>
+			<td width="150"><B>Horario</B></td>
+		</tr>
+
+		<tr>
+			<td>ALMERÕA</td>
+			<td>ALBOX                    </td>
+			<td>CR HUERCAL-OVERA-VILLAC. KM  70,1</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>SAN JOSE</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>¡LAVA</td>
+			<td>NANCLARES DE LA OCA      </td>
+			<td>CALLE TRATADO DE PARIS, 6</td>
+			<td>21/05/2010</td>
+			<td>1,030</td>
+			<td>EUROCAM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>ZARAGOZA                 </td>
+			<td>CR A-68, 242,7  D</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>REPSOL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>ZUERA                    </td>
+			<td>CALLE AUSTRIA, 11,17</td>
+			<td>25/05/2010</td>
+			<td>1,000</td>
+			<td>COOP.SAN LICER - ARENTO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+	</table>
+</body>
+</html>
