@@ -1,0 +1,5566 @@
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+	<title>Resultado de b&uacute;squeda de EESS</title>
+    
+</head>
+  
+<body>
+	
+	<table Border='1'>
+		<tr style="height: 66px;">
+			<td colspan = '9'>
+				<img height="66" alt="Logotipo del Ministerio de Industria, Turismo  y Comercio" src="http://geoportal.mityc.es/hidrocarburos/eess/SiteCollectionImages/plantilla/logo_MITYC.png" class="logoMinis"/>
+				<img height="66" alt="Logotipo del Ministerio de Industria, Turismo  y Comercio" src="http://geoportal.mityc.es/hidrocarburos/eess/SiteCollectionImages/cabecera/cabecera_energia.jpg" class="logoMinis"/>
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan = '9'><B>Producto: </B>BiodiÃ©sel</td>
+		</tr>
+		
+		<tr>
+			<td colspan = '9'><B>Fecha: </B>25-05-2010</td>
+		</tr>
+		<tr>
+			<td width="100"><B>Provincia</B></td>
+			<td width="100"><B>Localidad</B></td>
+			<td width="245"><B>Direcci&oacute;n</B></td>
+			<td width="105"><B>Toma de datos</B></td>
+			<td width="50"><B>Precio</B></td>
+			<td width="150"><B>R&oacute;tulo</B></td>
+			<td width="80"><B>Tipo Venta</B></td>
+			<td width="50"><B>Rem.</B></td>
+			<td width="150"><B>Horario</B></td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>LAUDIO/LLODIO            </td>
+			<td>AVENIDA ZUMALACARREGUI (C.C. EROSKI), S/N</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:30-21:30</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>NANCLARES DE LA OCA      </td>
+			<td>CALLE TRATADO DE PARIS, 6</td>
+			<td>21/05/2010</td>
+			<td>1,030</td>
+			<td>EUROCAM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>RIBABELLOSA              </td>
+			<td>AVENIDA ALAVA, 12</td>
+			<td>25/05/2010</td>
+			<td>0,986</td>
+			<td>EESS ROMPETROL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>RIBABELLOSA              </td>
+			<td>POLIGONO SUI 1, (C.C. EROSKI), 1</td>
+			<td>25/05/2010</td>
+			<td>1,018</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 10:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>VITORIA-GASTEIZ          </td>
+			<td>C/  ZARAMAGA,1, C.C. BOULEVARD  (EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:30-22:00; D: 09:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>VITORIA-GASTEIZ          </td>
+			<td>CALLE REYES CATOLICOS, 2</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>EMPRESA DE SERVICIOS SANTAMARIA UGALDE,S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁLAVA</td>
+			<td>VITORIA-GASTEIZ          </td>
+			<td>MENDIGORRITXU 50</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>N1JUNDIZ</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ALBACETE</td>
+			<td>ALBACETE                 </td>
+			<td>AVDA. DE LOS TOREROS, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,080</td>
+			<td>INPEALSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ALBACETE</td>
+			<td>ALBACETE</td>
+			<td>AVENIDA PRIMERA, 94</td>
+			<td>24/05/2010</td>
+			<td>1,085</td>
+			<td>ENERGAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-23:00; S: 06:00-15:00</td>
+		</tr>
+
+		<tr>
+			<td>ALBACETE</td>
+			<td>RODA (LA)                </td>
+			<td>AUTOVIA A-31 KM. 34,50</td>
+			<td>25/05/2010</td>
+			<td>1,081</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:59</td>
+		</tr>
+
+		<tr>
+			<td>ALBACETE</td>
+			<td>RODA (LA)                </td>
+			<td>CARRETERA A-31 KM. 50</td>
+			<td>25/05/2010</td>
+			<td>1,107</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>ALICANTE/ALACANT         </td>
+			<td>POL. IND. BABEL C/ ARTES GR?FICAS, 89</td>
+			<td>25/05/2010</td>
+			<td>1,067</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00; D: 08:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>ALICANTE/ALACANT         </td>
+			<td>CARRETERA N-340 KM. 757,2</td>
+			<td>25/05/2010</td>
+			<td>1,077</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>ALMORADI                 </td>
+			<td>AVENIDA COMUNIDAD EUROPEA, 1</td>
+			<td>24/05/2010</td>
+			<td>1,109</td>
+			<td>LAS MAROMAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>JACARILLA                </td>
+			<td>CARRETERA JACARILLA-BENEJUZAR KM. 2,5</td>
+			<td>24/05/2010</td>
+			<td>1,095</td>
+			<td>PETROBENE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>TORREVIEJA               </td>
+			<td>CALLE APOLO, 107</td>
+			<td>24/05/2010</td>
+			<td>1,077</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00; M-V: 07:00-23:00; S-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>VERGER (EL)              </td>
+			<td>AVENIDA VALENCIA, 50</td>
+			<td>24/05/2010</td>
+			<td>1,026</td>
+			<td>BIOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ALICANTE</td>
+			<td>XIXONA                   </td>
+			<td>CARRETERA N-340 KM. 757,4</td>
+			<td>25/05/2010</td>
+			<td>1,077</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ALMERÍA</td>
+			<td>BALANEGRA                </td>
+			<td>CR N-340, 397</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>CAMPSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>ALMERÍA</td>
+			<td>CUEVAS DEL ALMANZORA     </td>
+			<td>CARRETERA A-332 KM. 11</td>
+			<td>25/05/2010</td>
+			<td>1,000</td>
+			<td>EESS BORJA - GASOLEOS FERRER S.L</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ASTURIAS</td>
+			<td>COLLOTO                  </td>
+			<td>POLIGONO ESPÌRITU SANTO, PARCELA, 17 (N-634 SANTANDER OVIEDO km 401,7)</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>ESOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ASTURIAS</td>
+			<td>CORUÑO                   </td>
+			<td>POLIGONO ASIPO CL A, 21</td>
+			<td>21/05/2010</td>
+			<td>1,056</td>
+			<td>ASIPO SERVICIOS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-21:00; S: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>ASTURIAS</td>
+			<td>GIJON                    </td>
+			<td>POL.IND. TREMAÑES,PARC.1-3,C/PAULINA CANGA,S/N</td>
+			<td>24/05/2010</td>
+			<td>1,048</td>
+			<td>EMPRESOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ASTURIAS</td>
+			<td>MIERES                   </td>
+			<td>POLIGONO IND. FABRICA DE MIERES,2</td>
+			<td>24/05/2010</td>
+			<td>1,041</td>
+			<td>DAM,S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ASTURIAS</td>
+			<td>VISO (EL)                </td>
+			<td>POLIGONO INDUSTRIAL RIAÑO II, 2</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>DAM,S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁVILA</td>
+			<td>BARCO DE AVILA (EL)      </td>
+			<td>CARRETERA NACIONAL 110 KM. 335,2</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>BELLAVISTA S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁVILA</td>
+			<td>BARRACO (EL)             </td>
+			<td>CARRETERA N-403 KM. 102</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>E.S.JUANJO-REPOSTAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁVILA</td>
+			<td>CHAHERRERO               </td>
+			<td>N-50, AVILA-SALAMANCA km 147,8</td>
+			<td>17/05/2010</td>
+			<td>1,084</td>
+			<td>(sin rótulo)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ÁVILA</td>
+			<td>RAMACASTAÑAS             </td>
+			<td>CARRETERA AVILA-CORDOBA KM. 77</td>
+			<td>24/05/2010</td>
+			<td>1,052</td>
+			<td>FERNANDEZ BERMEJO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>ALMENDRALEJO             </td>
+			<td>AVENIDA DE SEVILLA, 140</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>E.LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>BADAJOZ                  </td>
+			<td>CALLE JERONIMO DE VALENCIA, 11</td>
+			<td>25/05/2010</td>
+			<td>1,034</td>
+			<td>MCH OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>CABEZA DEL BUEY          </td>
+			<td>PUEBLA DE ALCOCER km 0.150</td>
+			<td>24/05/2010</td>
+			<td>0,934</td>
+			<td>ESTACIÓN DE SERVICIO ARMENTERA S.L</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-10:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>CORDOBILLA DE LACARA     </td>
+			<td>CARRETERA LA NAVA KM. 0,3</td>
+			<td>19/05/2010</td>
+			<td>1,065</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>FUENTES DE LEON          </td>
+			<td>SEGURA A CUMBRES (CTRA. SEGURA-CUMBRES PK 6 km 6)</td>
+			<td>18/05/2010</td>
+			<td>0,999</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>MERIDA                   </td>
+			<td>POLIGONO IND. EL PRADO, PARC SER 1-A, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,044</td>
+			<td>MCH OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>OLIVA FRONTERA           </td>
+			<td>CARRETERA JEREZ KM. S/N</td>
+			<td>18/05/2010</td>
+			<td>1,045</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>PARRA (LA)               </td>
+			<td>CARRETERA LA MORERA KM. 0,450</td>
+			<td>18/05/2010</td>
+			<td>1,085</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>QUINTANA DE LA SERENA    </td>
+			<td>CTRA. BA-624 km 30,49</td>
+			<td>17/05/2010</td>
+			<td>1,085</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>SAN PEDRO DE MERIDA      </td>
+			<td>CARRETERA A-5 KM. 326</td>
+			<td>18/05/2010</td>
+			<td>1,089</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>SIRUELA                  </td>
+			<td>CARRETERA BA-136 KM. 16,700</td>
+			<td>25/05/2010</td>
+			<td>1,050</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00; D: 07:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>TALAVERA LA REAL         </td>
+			<td>AVDA. DE EXTREMADURA, S/N (ANTIGUA N-V)</td>
+			<td>24/05/2010</td>
+			<td>1,050</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BADAJOZ</td>
+			<td>ZAFRA                    </td>
+			<td>CARRETERA EX-101 KM. 4</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>IBERDOEX</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>ABRERA</td>
+			<td>SALVADOR SEGUÍ, 1</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>HAM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>AIRESOL                  </td>
+			<td>CL OSONA, 1-3</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>ARTES                    </td>
+			<td>C/ ROCAFORT, 103 (B-4512 km 0,6)</td>
+			<td>25/05/2010</td>
+			<td>1,058</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE PORT DE HAIFA, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE PUJADES, 309</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>BP-1417 (L'ARRABASSADA) km 4,9</td>
+			<td>25/05/2010</td>
+			<td>1,074</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE PEDROIV, 79</td>
+			<td>25/05/2010</td>
+			<td>1,076</td>
+			<td>EVOLUTIONOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>C/ CERDEÑA, 225-229</td>
+			<td>25/05/2010</td>
+			<td>1,080</td>
+			<td>ESTACION CERDEÑA, S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>PASEO VALLDAURA, 210</td>
+			<td>25/05/2010</td>
+			<td>1,083</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE MAJOR, 26</td>
+			<td>25/05/2010</td>
+			<td>1,083</td>
+			<td>TORTUGA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>AVINGUDA DEL PARALELO, 132</td>
+			<td>25/05/2010</td>
+			<td>1,084</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE BAC DE RODA, 130</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>MOIANES, 34</td>
+			<td>25/05/2010</td>
+			<td>1,095</td>
+			<td>E.S.MOYANES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>CALLE GALILEU, 210</td>
+			<td>25/05/2010</td>
+			<td>1,098</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BARCELONA                </td>
+			<td>AVINGUDA PARAL.LEL, 25</td>
+			<td>25/05/2010</td>
+			<td>1,099</td>
+			<td>ESTACION SERVICIO UBACH SA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BEGUES                   </td>
+			<td>CARRETERA BV-2041 KM. 8,3</td>
+			<td>25/05/2010</td>
+			<td>1,089</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>BEGUES                   </td>
+			<td>CARRETERA BV-2411 KM. 12,200</td>
+			<td>17/05/2010</td>
+			<td>1,119</td>
+			<td>ES BEGUES PARK</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CA N'AMAT                </td>
+			<td>CALLE ISAAC PERAL, 9</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>ANG PETROLIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CALAF                    </td>
+			<td>CTRA. MANRESA A ST. GUIM km 32,4</td>
+			<td>17/05/2010</td>
+			<td>1,039</td>
+			<td>(sin rótulo)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CALDES DE MONTBUI        </td>
+			<td>CARRETERA 1415 KM. 1925</td>
+			<td>24/05/2010</td>
+			<td>1,089</td>
+			<td>E.S.CALDES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CANET DE MAR             </td>
+			<td>CALLE RIERA D'EN MISSER, 2</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CASTELLBISBAL            </td>
+			<td>C/ MAGNETISME, 1 (B-150)</td>
+			<td>24/05/2010</td>
+			<td>1,085</td>
+			<td>BENZINERA CASTELLBISBAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CERCS                    </td>
+			<td>CARRETERA COMARCAL C-16 KM. 105,5</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CERCS</td>
+			<td>CARRETERA COMARCAL C-16 KM. 105</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CERDANYOLA DEL VALLES    </td>
+			<td>CALLE BOSC TANCAT, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,065</td>
+			<td>SABATER NURI CARBURANTS SA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CERDANYOLA DEL VALLES    </td>
+			<td>CALLE SANTA ANNA, 133</td>
+			<td>24/05/2010</td>
+			<td>1,065</td>
+			<td>SABATER NURI CARBURANTS SA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CORNELLA DE LLOBREGAT    </td>
+			<td>AVENIDA DE LA FAMA, 2</td>
+			<td>25/05/2010</td>
+			<td>1,068</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>CORNELLA DE LLOBREGAT    </td>
+			<td>AVENIDA FERROCARRILES CATALANES, 240</td>
+			<td>25/05/2010</td>
+			<td>1,068</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>ENTITAT EST D'ABRERA     </td>
+			<td>CALLE HOSTAL DEL PI S/N, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-S: 07:00-23:00; D: 08:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>ESPARREGUERA             </td>
+			<td>POLIGONO LES TRES RIERES, 1</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>ESPLUGUES DE LLOBREGAT   </td>
+			<td>PLAZA LA SARDANA, 3</td>
+			<td>25/05/2010</td>
+			<td>1,067</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>FOGARS DE LA SELVA       </td>
+			<td>CARRETERA BV-5122 KM. 5,1</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>FRANQUESES DEL VALLES (LES)</td>
+			<td>CALLE VALLES, 1</td>
+			<td>24/05/2010</td>
+			<td>1,089</td>
+			<td>VIA OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>GAVA                     </td>
+			<td>CALLE ENERGIA S/N, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,077</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>GELIDA                   </td>
+			<td>CAMI CAN VALLS, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,076</td>
+			<td>CACENCA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 05:00-23:00; S-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>GRANOLLERS               </td>
+			<td>N-152 km 26,8</td>
+			<td>24/05/2010</td>
+			<td>1,084</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>GRANOLLERS               </td>
+			<td>CRTA.COMARCAL 251 KM 1'2</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>HOSPITALET DE LLOBREGAT (L')</td>
+			<td>AVENIDA FABREGADA, 55</td>
+			<td>24/05/2010</td>
+			<td>1,076</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>HOSPITALET DE LLOBREGAT (L')</td>
+			<td>TRAVESIA INDUSTRIAL, 147</td>
+			<td>25/05/2010</td>
+			<td>1,080</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>HOSPITALET DE LLOBREGAT (L')</td>
+			<td>CALLE GRAN VIA, 12</td>
+			<td>25/05/2010</td>
+			<td>1,089</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>IGUALADA                 </td>
+			<td>CALLE EL REC CANTONADA JOAN MERCADER, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>IGUALADA                 </td>
+			<td>CALLE GUIMARAES, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>IGUALADA                 </td>
+			<td>AVDA.MESTRE MONTANER, 19</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>MEROIL, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>LLEDONER (EL)            </td>
+			<td>CARRETERA N-340 KM. 1229,7</td>
+			<td>24/05/2010</td>
+			<td>1,081</td>
+			<td>ANG PETROLIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>LLIÇA D'AMUNT            </td>
+			<td>BV-1432 km 2,3</td>
+			<td>24/05/2010</td>
+			<td>1,089</td>
+			<td>E.S. LLIÇÀ D' AMUNT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>LLIÇA D'AMUNT            </td>
+			<td>CARRETERA BV 1432 KM. 2300</td>
+			<td>24/05/2010</td>
+			<td>1,089</td>
+			<td>E.S. LLIÇÀ D' AMUNT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>LLINARS DEL VALLES       </td>
+			<td>AVINGUDA MAS BAGA, 1</td>
+			<td>24/05/2010</td>
+			<td>1,089</td>
+			<td>ESTACIO SERVEI LLINARS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MALLA                    </td>
+			<td>HIPER ESCLAT. CTRA. C-17 km 55</td>
+			<td>18/05/2010</td>
+			<td>1,009</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MANLLEU                  </td>
+			<td>FRANCESC PUGET, 2</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MANRESA                  </td>
+			<td>DOS DE MAIG, 76-84</td>
+			<td>25/05/2010</td>
+			<td>1,055</td>
+			<td>SETSERVEIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MASIES DE VOLTREGA (LES)</td>
+			<td>C/ TER, S/N</td>
+			<td>20/05/2010</td>
+			<td>1,086</td>
+			<td>E.S.MOVIL LA GLEVA,S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MASNOU (EL)              </td>
+			<td>CRTA.N II, KM 635, POL.IND. VORAMAR</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MASQUEFA                 </td>
+			<td>CALLE LAPEDROSA, 20</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>PEDROSA CENTER</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MATARO                   </td>
+			<td>CARRETERA N-2 KM. 644</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MATARO                   </td>
+			<td>C.C.MATARÓ PARK; CTRA.CIRERA, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,096</td>
+			<td>ALCAMPO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MOIA                     </td>
+			<td>AVINGUDA ZONA INDUSTRIAL, S/N</td>
+			<td>17/05/2010</td>
+			<td>1,000</td>
+			<td>AREA DIESEL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MOIA                     </td>
+			<td>POLIGONO RONDE DE LES CONQUES, 17</td>
+			<td>24/05/2010</td>
+			<td>1,109</td>
+			<td>SERVIAUTO ECOLOGIC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MOLINS DE REI            </td>
+			<td>CALLE RIERA CAN PAHISSA, 7,11</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>PETROLIS DE BARCELONA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MOLINS DE REI            </td>
+			<td>AVDA. BARCELONA, 222 (N-340)</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MOLLET DEL VALLES        </td>
+			<td>AV.RABASSAIRES, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>MONJOS (ELS)             </td>
+			<td>POLIGONO PLA DE L'ESTACIO, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,075</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 04:00-23:00; S-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>PRAT DE LLOBREGAT (EL)   </td>
+			<td>CALLE EL PRAT, 54</td>
+			<td>25/05/2010</td>
+			<td>1,092</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>RIERAL DE BIGUES         </td>
+			<td>CARRETERA SANT LLORENÇ A LLINARS KM. 25</td>
+			<td>25/05/2010</td>
+			<td>1,089</td>
+			<td>ESTACIO SERVEI BIGUES I RIELLS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SABADELL                 </td>
+			<td>RAMBLA IBERIA D', 203</td>
+			<td>25/05/2010</td>
+			<td>1,075</td>
+			<td>COBASA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-M: 06:00-23:00; X-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SABADELL                 </td>
+			<td>CTRA.BARCELONA,405-409</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SABADELL                 </td>
+			<td>C/ VIA ARCADIA, 14-28</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT ADRIA DE BESOS      </td>
+			<td>CALLE CARRETERA DE MATARO, 10</td>
+			<td>18/05/2010</td>
+			<td>1,110</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT ANDREU DE LA BARCA  </td>
+			<td>CRA. MARTORELL 11-19 C.C. ATRIUM-CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT ANDREU DE LA BARCA  </td>
+			<td>CARRETERA ANTIGUA NACIONAL II KM. 593,20</td>
+			<td>24/05/2010</td>
+			<td>1,106</td>
+			<td>PETRONIEVES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT BOI DE LLOBREGAT    </td>
+			<td>CRTA.BARCELONA A STA.CREU DE CALAFELL km 7,8</td>
+			<td>24/05/2010</td>
+			<td>1,083</td>
+			<td>E.S.OASIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT BOI DE LLOBREGAT    </td>
+			<td>CARRETERA SANTA CREU DE CALAFELL DE KM. 10</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>E.S. CASABLANCA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT CELONI              </td>
+			<td>CARRETERA C-35 KM. 56,1</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT CUGAT DEL VALLES    </td>
+			<td>CRTA. RUBI - ST.CUGAT - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,089</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT FOST CAMPSENTELLES  </td>
+			<td>CARRETERA BV-5001 KM. 11,6</td>
+			<td>21/05/2010</td>
+			<td>1,088</td>
+			<td>E/S SANT FOST</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT JOAN DE VILATORRADA </td>
+			<td>CARRETERA C-55 KM. 39</td>
+			<td>24/05/2010</td>
+			<td>1,101</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT JOAN DESPI          </td>
+			<td>AVDA. BARCELONA, 41-43</td>
+			<td>25/05/2010</td>
+			<td>1,084</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT JOAN DESPI          </td>
+			<td>AVDA. BARCELONA, 28 ESQ.AVD. V. MONTSERRAT   P.I. FONTSANTA</td>
+			<td>21/05/2010</td>
+			<td>1,094</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT JUST DESVERN        </td>
+			<td>AVENIDA LLUIS COMPANYS, S/N</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT PERE DE RIBES       </td>
+			<td>CALLE URGELL, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,066</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-S: 07:00-22:00; D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT PERE DE RIUDEBITLLES</td>
+			<td>CALLE CARRETERA, 162</td>
+			<td>25/05/2010</td>
+			<td>1,066</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT QUIRZE DEL VALLES   </td>
+			<td>CARRETERA BP-1503 KM. 20,270</td>
+			<td>25/05/2010</td>
+			<td>1,084</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANT VICENÇ DELS HORTS   </td>
+			<td>CALLE A, 31</td>
+			<td>24/05/2010</td>
+			<td>1,112</td>
+			<td>E.S. MOLI DELS FRARES, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANTA MARIA DE CORCO     </td>
+			<td>VIC  A  OLOT km 15,75</td>
+			<td>25/05/2010</td>
+			<td>1,080</td>
+			<td>AREA DE SERVEI EL CABRERES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SANTA MARIA DE MIRALLES  </td>
+			<td>CARRETERA C-37 KM. 48,500</td>
+			<td>24/05/2010</td>
+			<td>1,044</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>SITGES                   </td>
+			<td>P.I. MAS ALBA PARC.12-14 - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,066</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA                 </td>
+			<td>AVENIDA DEL VALLÈS, 4</td>
+			<td>25/05/2010</td>
+			<td>1,076</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 05:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA                 </td>
+			<td>CTRA. DE MATADEPERA km 1,750</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>Q8</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA                 </td>
+			<td>AVENIDA 22 DE JULIOL, 269</td>
+			<td>24/05/2010</td>
+			<td>1,084</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA</td>
+			<td>AVDA VALLES, 149</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>COBASA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA                 </td>
+			<td>AVENIDA JAIME I, 1</td>
+			<td>24/05/2010</td>
+			<td>1,102</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TERRASSA                 </td>
+			<td>COLOM ESQ.TEXTIL POL.IND.S.MARGARITA II</td>
+			<td>25/05/2010</td>
+			<td>1,115</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TONA                     </td>
+			<td>AVENIDA VECINAL, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TORDERA                  </td>
+			<td>CARRETERA CTRA GI-512 KM. 1</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>GALP </td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TORELLO                  </td>
+			<td>CARRER COMPTE BORREL, 1</td>
+			<td>18/05/2010</td>
+			<td>1,009</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>TORRELLES DE LLOBREGAT   </td>
+			<td>CARRETERA BV-2005 KM. 4,7</td>
+			<td>24/05/2010</td>
+			<td>1,083</td>
+			<td>GM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VACARISSES               </td>
+			<td>CARRETERA C-58 KM. 32,5</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VACARISSES               </td>
+			<td>CARRETERA C-58 KM. 32,5</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VIC                      </td>
+			<td>C/ LLEIDA, 2 P.ACTIV. ECONOMIQUES</td>
+			<td>25/05/2010</td>
+			<td>0,989</td>
+			<td>ZONA DIESEL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VIC                      </td>
+			<td>HIPER ESCLAT. C. RIPOLL,20 POL. MAS BEULÓ</td>
+			<td>18/05/2010</td>
+			<td>1,009</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VIC                      </td>
+			<td>CENTRO COMERCIAL CAPRABO VIC</td>
+			<td>25/05/2010</td>
+			<td>1,044</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VIC                      </td>
+			<td>C/ TORELLÓ, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>AREA VIC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VILAFRANCA DEL PENEDES   </td>
+			<td>CALLE LA MUNIA, 2</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VILAFRANCA DEL PENEDES   </td>
+			<td>CARRETERA BARCELONA KM. 115</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VILAFRANCA DEL PENEDES   </td>
+			<td>AVINGUDA TARRAGONA, 84</td>
+			<td>25/05/2010</td>
+			<td>1,076</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VILAFRANCA DEL PENEDES   </td>
+			<td>AVINGUDA TARRAGONA, 107</td>
+			<td>21/05/2010</td>
+			<td>1,088</td>
+			<td>ESTACIO SERVEI MONTBLANC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BARCELONA</td>
+			<td>VILANOVA I LA GELTRU     </td>
+			<td>CALLE METALURGIA, 4</td>
+			<td>25/05/2010</td>
+			<td>1,056</td>
+			<td>SIMPLY</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 09:30-21:30</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>ARANDA DE DUERO          </td>
+			<td>CALLE BEMPOSTA R-97, 97</td>
+			<td>25/05/2010</td>
+			<td>1,019</td>
+			<td>DACAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>BRIVIESCA                </td>
+			<td>CALLE BURGOS, 11</td>
+			<td>24/05/2010</td>
+			<td>1,015</td>
+			<td>NORPETROL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>BRIVIESCA                </td>
+			<td>CARRETERA BELORADO BU-710 km 1</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>NORPETROL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>BURGOS                   </td>
+			<td>CTRA. N-623, KM,2 (CC MIRADOR)</td>
+			<td>24/05/2010</td>
+			<td>1,048</td>
+			<td>AVIA VISTA ALEGRE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>BURGOS</td>
+			<td>CARRETERA NACIONAL I KM. 247</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>LAS ARENAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>ESCALADA                 </td>
+			<td>CARRETERA BURGOS-SANTANDER KM. 59,700</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>E.S. EBRO</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 10:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>MIRANDA DE EBRO          </td>
+			<td>CARRETERA DE BILBAO (C.C. LECLERC) km S/N</td>
+			<td>21/05/2010</td>
+			<td>1,000</td>
+			<td>E.LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>OÑA                      </td>
+			<td>CTRA. LOGROÑO SANTANDER km 508</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>E.S. ANGULO OÑA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>REVILLA (LA)             </td>
+			<td>CARRETERA BURGOS-SAGUNTO KM. S/N</td>
+			<td>24/05/2010</td>
+			<td>1,043</td>
+			<td>PINAROIL S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 08:00-20:00; S: 10:00-13:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>RUBENA                   </td>
+			<td>N-I km 249</td>
+			<td>24/05/2010</td>
+			<td>1,020</td>
+			<td>BEROIL, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>VILLANUEVA DE ARGAÑO     </td>
+			<td>LOGROÑO-VIGO km 134,5</td>
+			<td>24/05/2010</td>
+			<td>1,034</td>
+			<td>E.S.SAIZ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 7:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>VIVAR DEL CID            </td>
+			<td>CARRETERA N-623 KM. 10</td>
+			<td>25/05/2010</td>
+			<td>1,031</td>
+			<td>VIVAR DEL CID</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>BURGOS</td>
+			<td>VIVAR DEL CID            </td>
+			<td>CARRETERA N-623 KM. 10</td>
+			<td>25/05/2010</td>
+			<td>1,031</td>
+			<td>VIVAR DEL CID</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁCERES</td>
+			<td>BATAN (EL)               </td>
+			<td>CTRA. C-511 km 74,600</td>
+			<td>24/05/2010</td>
+			<td>1,057</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>ARCOS DE LA FRONTERA     </td>
+			<td>N 342 km 26.8</td>
+			<td>24/05/2010</td>
+			<td>1,020</td>
+			<td>GARRUCHO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>JEREZ DE LA FRONTERA     </td>
+			<td>CARRETERA A-471 KM. 54</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>LIBRE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>JEREZ DE LA FRONTERA     </td>
+			<td>A-2003 km 25,5</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>LIBRE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>PUERTO DE SANTA MARIA (EL) </td>
+			<td>CA 602 PK 2,05 (CARRETERA km 2.05)</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>ARANCIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>PUERTO REAL              </td>
+			<td>AVENIDA MOJARRA DE LA, 5</td>
+			<td>24/05/2010</td>
+			<td>1,044</td>
+			<td>E.S. TRES CAMINOS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>ROTA                     </td>
+			<td>CTRA. A-491 km 11,2</td>
+			<td>25/05/2010</td>
+			<td>1,059</td>
+			<td>LAS MARISMAS DE ROTA (L.M.R.)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>SAN ROQUE                </td>
+			<td>POLIGONO INDUSTRIAL GUADARRANQUE PARCELA 9A (N-340 AUTOVIA E-15 CADIZ-MADRID km 116)</td>
+			<td>24/05/2010</td>
+			<td>1,055</td>
+			<td>CODES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CÁDIZ</td>
+			<td>SANLUCAR DE BARRAMEDA    </td>
+			<td>CR C-441 64,1</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>LAS PALMERAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>BOO                      </td>
+			<td>CALLE BOO, 52</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>G2</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>CARTES                   </td>
+			<td>BARRIO DE RIOCORVO, 2 (N-611 PALENCIA-SANTANDER km 179,8)</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>E.S. ESCARTE, S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>FOMBELLIDA               </td>
+			<td>N-611 km 130,1</td>
+			<td>25/05/2010</td>
+			<td>1,118</td>
+			<td>ESTACIÓN DE FOMBELLIDA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>GUARNIZO                 </td>
+			<td>CALLE PROSPERIDAD, 61</td>
+			<td>24/05/2010</td>
+			<td>1,048</td>
+			<td>AREA DE SERVICIO LA PALMERA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-13:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>HERAS                    </td>
+			<td>CARRETERA N-635 KM. 10,200</td>
+			<td>25/05/2010</td>
+			<td>1,118</td>
+			<td>ESTACIÓN DE HERAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>ISLARES                  </td>
+			<td>CARRETERA IRUN-LA CORUÑA KM. 156</td>
+			<td>25/05/2010</td>
+			<td>1,056</td>
+			<td>E.S. ISLARES S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>LOS CORRALES DE BUELNA</td>
+			<td>BARRIO SAN MATEO (CR N-611  PALENCIA-SANTANDER km 174)</td>
+			<td>25/05/2010</td>
+			<td>1,029</td>
+			<td>E.S. SOMAHOZ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>MOMPIA                   </td>
+			<td>CTRA.  S- 464 km 0,5</td>
+			<td>24/05/2010</td>
+			<td>1,033</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>MURIEDAS                 </td>
+			<td>CARRETERA NACIONAL 635 KM. 2,7</td>
+			<td>25/05/2010</td>
+			<td>0,998</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-10:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>ONTON                    </td>
+			<td>CARRETERA N-634 KM. 136,4</td>
+			<td>25/05/2010</td>
+			<td>1,058</td>
+			<td>EL HAYA SERVICIOS S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>PAMANES                  </td>
+			<td>CARRETERA NACIONAL 634 km 204,850</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>AREA DE SERVICIO PAMANES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>REINOSA                  </td>
+			<td>AVENIDA CANTABRIA, 99</td>
+			<td>23/05/2010</td>
+			<td>1,058</td>
+			<td>PARTE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>SANTANDER                </td>
+			<td>AREA, ARRABAL PUERTO DE RAOS, 8</td>
+			<td>24/05/2010</td>
+			<td>0,998</td>
+			<td>E.E.S.S. MAS, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 7:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>SANTANDER                </td>
+			<td>AVDA. VALDECILLA, 14</td>
+			<td>24/05/2010</td>
+			<td>1,047</td>
+			<td>E.S.VALDECILLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>TORRELAVEGA              </td>
+			<td>PASEO JULIO HAUZEUR, 6</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>AREA DE SERVICIO TORRELAVEGA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CANTABRIA</td>
+			<td>VALDALIGA</td>
+			<td>CN-634 km 255,7</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>E.S. TRECEÑO S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CASTELLÓN / CASTELLÓ</td>
+			<td>ALCALA DE XIVERT         </td>
+			<td>C/ BARON DE ALCAHALI, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,062</td>
+			<td>COOP. SAN ISIDRO DE ALCALA</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CASTELLÓN / CASTELLÓ</td>
+			<td>ALMAZORA                 </td>
+			<td>AVENIDA CASTELLÓN, 65</td>
+			<td>20/05/2010</td>
+			<td>1,083</td>
+			<td>MONOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 06:00-00:00; V-D: 07:00-01:00</td>
+		</tr>
+
+		<tr>
+			<td>CASTELLÓN / CASTELLÓ</td>
+			<td>VILAFAMES                </td>
+			<td>AVDA. SAN MIGUEL, 87</td>
+			<td>25/05/2010</td>
+			<td>1,042</td>
+			<td>COOP. SAN ISIDRO DE VILAFAMES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CASTELLÓN / CASTELLÓ</td>
+			<td>VILLARREAL               </td>
+			<td>AVDA. DE FRANCIA, 62-66</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>GASOLINERAS DEL MEDITERRANEO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CASTELLÓN / CASTELLÓ</td>
+			<td>VILLARREAL               </td>
+			<td>AVENIDA CASTELLO, 75</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>COOPERATIVA CATOLICO AGRARIA COOP.V.</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CIUDAD REAL</td>
+			<td>CIUDAD REAL              </td>
+			<td>CARRETERA DE PORZUNA, S/N (C.C. LECLERC)</td>
+			<td>20/05/2010</td>
+			<td>0,990</td>
+			<td>E.LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CIUDAD REAL</td>
+			<td>SOCUELLAMOS              </td>
+			<td>CARRETERA N-310 KM. 105</td>
+			<td>25/05/2010</td>
+			<td>1,101</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>CORDOBA                  </td>
+			<td>PARC GABRIEL RAMOS BEJARANO 110 C, 110</td>
+			<td>25/05/2010</td>
+			<td>1,079</td>
+			<td>TARJETAS PREMIUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>FUENTE PALMERA           </td>
+			<td>CARRETERA FUENTE PALMERA- LA VENTILLA L-120 KM. 0,500</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>GUIJARROSA (LA)          </td>
+			<td>CARRERA ALDEA QUINTANA-PUENTE GENIL, KM. 10100, 10100</td>
+			<td>24/05/2010</td>
+			<td>1,070</td>
+			<td>E.S.NTRA . SÑRA. DEL ROSARIO.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-00:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>HINOJOSA DEL DUQUE       </td>
+			<td>AVENIDA MARQUES DE SANTILLANA, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>LA TRINIDAD</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>PALMA DEL RIO            </td>
+			<td>POLIGONO PI EL GARROTAL OESTE PARC.M2, SN</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>CÓRDOBA</td>
+			<td>SANTAELLA                </td>
+			<td>CARRETERA CTRA. ECIJA-LA RAMBLA C-3312 KM. 25,000</td>
+			<td>25/05/2010</td>
+			<td>1,041</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>ACEA DE AMA              </td>
+			<td>AVENIDA ACEA DE AMA, 25</td>
+			<td>23/05/2010</td>
+			<td>1,042</td>
+			<td>ESTACION SE SERVICIO ACEA DA MA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>CAMBRE</td>
+			<td>N-550 km 10,8</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>ESTACION DE SERVICIO SIGRAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:30; D: 08:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>CARRAL</td>
+			<td>CN 550 km 14,176</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>ESTACION DE SERVICIO TABEAIO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-22:30; S: 07:00-22:30; D: 08:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>CORGO                    </td>
+			<td>LUGAR CORGO ARRIBA, 10</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>GASOLINERA O CORGO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>CORUÑA (A)               </td>
+			<td>AVDA. FINISTERRE, 265 F</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>ESTACION DE SERVICIO BENS, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>ORTIGUEIRA               </td>
+			<td>POLIGONO A REGA-CUIÑA, 21</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>ORTEGAL OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-23:00; D: 09:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>PONTE ULLA               </td>
+			<td>CARRETERA N-525 KM. 322</td>
+			<td>24/05/2010</td>
+			<td>1,062</td>
+			<td>PONTEULLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>PONTE ULLA               </td>
+			<td>CARRETERA N-525 KM. 322</td>
+			<td>24/05/2010</td>
+			<td>1,062</td>
+			<td>PONTEULLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-23:00; S-D: 09:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>PONTEDEUME               </td>
+			<td>AVENIDA AVDA RICARDO SANCHEZ, 1</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>COMBUSTIBLES RIO EUME</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>SANTA COMBA              </td>
+			<td>LG CABREIRA - ARANTON, 0 (C-545 km 45,0)</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>E.S. CABREIRA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>SANTA COMBA              </td>
+			<td>LG SAN ANDRES - A PEREIRA, 0 (AC-403 km 80,3)</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>E.S. MUIÑO GRANDE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>CORUÑA (A)</td>
+			<td>SANTIAGO DE COMPOSTELA   </td>
+			<td>VIA CIERVA S/N (MERCAGALICIA)-POLIGONO INDUSTRIAL DEL TAMBRE</td>
+			<td>24/05/2010</td>
+			<td>1,072</td>
+			<td>STAROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-23:00; S: 08:00-22:00; D: 09:00-15:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>ANGLES                   </td>
+			<td>CALLE ILLES1 Y 2, PLAN PARCIAL SECTOR CUC, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BANYOLES                 </td>
+			<td>PASEO DE LA FARGA, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,084</td>
+			<td>CONDIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BANYOLES                 </td>
+			<td>CRTA. C-150 km 16,630</td>
+			<td>24/05/2010</td>
+			<td>1,084</td>
+			<td>POSTE DE MATA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BISBAL D'EMPORDA(LA)     </td>
+			<td>POLIGONO DE LA AIGUETA, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,067</td>
+			<td>CONDIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BISBAL D'EMPORDA(LA)     </td>
+			<td>CALLE L'AIGÜETA PI B2 PARCELA 11, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-S: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BLANES                   </td>
+			<td>CARRETERA COSTA BRAVA 142-148 KM. 142</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>BLANES                   </td>
+			<td>AVENIDA EUROPA, D', 46</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>CELRA                    </td>
+			<td>CARRETERA DE PALAMÒS C255 KM. 5</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>FIGUERES                 </td>
+			<td>HIPER ESCLAT. AVDA.PAISOS CATALANS, 2</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>FIGUERES                 </td>
+			<td>VILALLONGA, 61 (CTRA.260)</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>PETREM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>FIGUERES                 </td>
+			<td>FINAL CALLE NORTE,S/N</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>PETREM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>HOSTALRIC                </td>
+			<td>CARRER POMPEU FABRA, 2</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>LA JONQUERA              </td>
+			<td>N-II, KM 77,5 km 77.5</td>
+			<td>25/05/2010</td>
+			<td>1,085</td>
+			<td>TORTUGA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>LLAGOSTERA               </td>
+			<td>CARRER XALOC, 1</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>LLERS                    </td>
+			<td>CARRETERA N-II KM. 760</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>LLORET DE MAR            </td>
+			<td>AVDA LES ALEGRIES, 89-91</td>
+			<td>24/05/2010</td>
+			<td>1,085</td>
+			<td>E. S. LES ALEGRIES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>LLORET DE MAR            </td>
+			<td>AV. VILA DE BLANES, 120 - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>OLOT                     </td>
+			<td>AV FRANÇA, 130</td>
+			<td>24/05/2010</td>
+			<td>1,074</td>
+			<td>PETROTANK</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>PALOL DE REVARDIT        </td>
+			<td>CTRA. C-66 km 38</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>PETROESTANY</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>PRESES (LES)             </td>
+			<td>CRTA.N 152 ESQ.ST.MIQUEL CORB</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-S: 07:00-22:00; D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>RIPOLL                   </td>
+			<td>CALLE SOROLLA, 33</td>
+			<td>25/05/2010</td>
+			<td>1,089</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>RIUDELLOTS DE LA SELVA   </td>
+			<td>CARRETERA C-25 KM. 240</td>
+			<td>24/05/2010</td>
+			<td>1,106</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SALT                     </td>
+			<td>PASEO MARQUES DE CAMPS, 79</td>
+			<td>25/05/2010</td>
+			<td>1,080</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SANT JOAN LES FONTS      </td>
+			<td>CARRETERA N-260 KM. 79,60</td>
+			<td>24/05/2010</td>
+			<td>1,100</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SANT PERE PESCADOR       </td>
+			<td>CARRETERA CASTELLO KM. 1</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SANTA COLOMA DE FARNERS  </td>
+			<td>CARRETERA DE SILS ENCREUAMENT KM. S/N</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>BTP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SANTA COLOMA DE FARNERS  </td>
+			<td>CARRETERA C-152 KM. 3</td>
+			<td>24/05/2010</td>
+			<td>1,080</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SARRIA DE TER            </td>
+			<td>N-II km 728</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>PETREM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>SARRIA DE TER            </td>
+			<td>N-II km 728</td>
+			<td>24/05/2010</td>
+			<td>1,071</td>
+			<td>PETREM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>TORROELLA DE MONTGRI     </td>
+			<td>HIPER ESCLAT. CTRA. GE 641 km 4,225</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GIRONA</td>
+			<td>VILAMALLA                </td>
+			<td>CALLE PONENT, 10</td>
+			<td>24/05/2010</td>
+			<td>1,080</td>
+			<td>PETRONIEVES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-10:00; S: 07:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>GRANADA</td>
+			<td>ALBOLOTE                 </td>
+			<td>CARRETERA POLIGONO JUNCARIL C/MOTRIL PARCELA R238 KM. 1,000</td>
+			<td>24/05/2010</td>
+			<td>0,999</td>
+			<td>E.S. </td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 06:00-23:00; V-D: 00:00-23:59</td>
+		</tr>
+
+		<tr>
+			<td>GRANADA</td>
+			<td>ATARFE                   </td>
+			<td>ROTONDA DE LAS CANTERAS S/N (A92 km 238)</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>Q8</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GRANADA</td>
+			<td>MOCLIN                   </td>
+			<td>CARRETERA NACIONAL 432 KM. 413</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>EUREKA3</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GRANADA</td>
+			<td>OTURA                    </td>
+			<td>CTRA. OTURA-DILAR km S/N</td>
+			<td>25/05/2010</td>
+			<td>1,060</td>
+			<td>ESTACION DE SERVICIO OTURA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUADALAJARA</td>
+			<td>GUADALAJARA              </td>
+			<td>CARRETERA NACIONAL N-II KM. 51,400</td>
+			<td>24/05/2010</td>
+			<td>1,065</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUADALAJARA</td>
+			<td>TORREMOCHA DEL CAMPO     </td>
+			<td>CARRETERA A2 KM. 117,400</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>ANDOAIN                  </td>
+			<td>POL. IND. KARRIKA. PARCELA 6</td>
+			<td>24/05/2010</td>
+			<td>1,052</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>ARRASATE/MONDRAGON       </td>
+			<td>CTRA. BERGARA   GI-627 (C.C. EROSKI) km 37</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>ARROA-BEKOA              </td>
+			<td>POLIGONO SANSINENEA ERREKA, 14</td>
+			<td>25/05/2010</td>
+			<td>1,012</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 08:30-19:45; S: 09:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>AZPEITIA                 </td>
+			<td>POLIGONO BASARTE, 6</td>
+			<td>25/05/2010</td>
+			<td>1,009</td>
+			<td>URKIDE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>DONOSTIA-SAN SEBASTIAN   </td>
+			<td>TRAVESIA GARBERA S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-22:30; S: 08:00-22:30; D: 10:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>DONOSTIA-SAN SEBASTIAN   </td>
+			<td>PASEO DR. BEGIRISTAIN, 75</td>
+			<td>24/05/2010</td>
+			<td>1,048</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>EIBAR                    </td>
+			<td>CALLE OTAOLA, 13</td>
+			<td>24/05/2010</td>
+			<td>1,028</td>
+			<td>E.S. KANTOI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>IRUN                     </td>
+			<td>AVENIDA NAVARRA, 18</td>
+			<td>24/05/2010</td>
+			<td>1,017</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>LAZKAO                   </td>
+			<td>GI-120 km 65</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>GUIPÚZCOA</td>
+			<td>USURBIL                  </td>
+			<td>CTRA. SAN SEBASTIAN (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:30; D: 10:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>ALJARAQUE                </td>
+			<td>AUTOVIA A-497 KM. 7</td>
+			<td>25/05/2010</td>
+			<td>1,046</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-14:59 y 15:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>ALMONTE                  </td>
+			<td>CRA. DEL ROCIO km 15.10</td>
+			<td>25/05/2010</td>
+			<td>1,059</td>
+			<td>ESTACION DE SERVICIO PUERTA DOÑANA </td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>ALOSNO                   </td>
+			<td>CARRETERA A-495 KM. 26,700</td>
+			<td>24/05/2010</td>
+			<td>1,044</td>
+			<td>E. S. ALOSNO S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>BEAS                     </td>
+			<td>CTRA.N-435 km 210</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>SIN ROTULO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>BOLLULLOS PAR DEL CONDADO</td>
+			<td>CARRETERA CARRETERA H 611 KM 4,7 KM. SN</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>AGLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>HUELVA                   </td>
+			<td>AVDA. NUEVO COLOMBINO S/N.</td>
+			<td>24/05/2010</td>
+			<td>1,047</td>
+			<td>TYCSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>HUELVA                   </td>
+			<td>RONDA NORTE km 8,5</td>
+			<td>24/05/2010</td>
+			<td>1,047</td>
+			<td>TYCSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>MOGUER                   </td>
+			<td>CTRA, A-494 km 6,200</td>
+			<td>24/05/2010</td>
+			<td>1,053</td>
+			<td>PLATERO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>NAVA (LA)                </td>
+			<td>CARRETERA NACIONAL 433. SEVILLA A LISBOA.CRUCE JABUGO KM. 105</td>
+			<td>23/05/2010</td>
+			<td>1,039</td>
+			<td>LA NAVA DE HUELVA, S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>VALVERDE DEL CAMINO      </td>
+			<td>N-435 km 198,9</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>DISAGON</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>HUELVA</td>
+			<td>ZALAMEA LA REAL          </td>
+			<td>CARRETERA NACIONAL 435 KM. 181,8</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>DISAGON</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 7:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>HUESCA</td>
+			<td>ANGUES                   </td>
+			<td>JOAQUÍN COSTA,38</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>COMBUSTIBLES DEL PIRINEO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-22:00; S: 07:00-22:00; D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>HUESCA</td>
+			<td>GRADO (EL)               </td>
+			<td>CARRETERA A,138 KM. 9,5</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 07:00-22:30; V-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>HUESCA</td>
+			<td>HUESCA                   </td>
+			<td>CENTRO COMERCIAL COSO DEL REAL (A132 km 1,2)</td>
+			<td>25/05/2010</td>
+			<td>1,018</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>HUESCA</td>
+			<td>JACA                     </td>
+			<td>POLÍGONO CAMPANCIÁN, S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,018</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>ANDUJAR                  </td>
+			<td>AVENIDA BLAS INFANTE, S/N, P.E. EUROPA, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>E.S. EUROPA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>CAROLINA (LA)            </td>
+			<td>AUTOVIA AUTOVIA DE ANDALUCIA KM. 266</td>
+			<td>24/05/2010</td>
+			<td>1,119</td>
+			<td>ORELLANA PERDIZ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>LOPERA                   </td>
+			<td>CARRETERA COMARCAL 527 KM. 29</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>E.S. LOS CABALLOS II</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>MARMOLEJO                </td>
+			<td>CARRETERA N-IV KM. 339</td>
+			<td>25/05/2010</td>
+			<td>1,063</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>VENTA DE LOS SANTOS      </td>
+			<td>A6203 km 39+800</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>STMO CRISTO DE LA EXPIRACION</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>JAÉN</td>
+			<td>VILLANUEVA DEL ARZOBISPO </td>
+			<td>CTRA.CORDOBA-VALENCIA,S/N km 190</td>
+			<td>24/05/2010</td>
+			<td>0,969</td>
+			<td>AGLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-20:00; S: 11:00-13:00</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>CABREROS DEL RIO         </td>
+			<td>POLIGONO PARCELAS 88 Y 89, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,035</td>
+			<td>AN ENERGÉTICOS UCOGAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>FRESNO DE LA VEGA        </td>
+			<td>CARRETERA LE512 KM. 21,000</td>
+			<td>25/05/2010</td>
+			<td>1,039</td>
+			<td>GASÓLEOS DEL NORTE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>MANZANAL DEL PUERTO      </td>
+			<td>CARRETERA N - VI KM. 351</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>AREA SERVICIO MANZANAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>PONFERRADA               </td>
+			<td>AVENIDA DE GALICIA, 241</td>
+			<td>24/05/2010</td>
+			<td>1,038</td>
+			<td>VALCARCE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>SAN ANDRES DEL RABANEDO  </td>
+			<td>AVDA. PÁRROCO PABLO DIEZ S/N (C.C. LECLERC)</td>
+			<td>25/05/2010</td>
+			<td>0,999</td>
+			<td>E.LECLERC LEON</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LEÓN</td>
+			<td>VALENCIA DE DON JUAN     </td>
+			<td>AVENIDA PALANQUINOS, 2</td>
+			<td>24/05/2010</td>
+			<td>1,035</td>
+			<td>SAENZ DE MIERA SL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>ALGERRI                  </td>
+			<td>C-26 km 7</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>ES ALGERRI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>ARTIES                   </td>
+			<td>CARRETERA C-28 KM. 29,5</td>
+			<td>24/05/2010</td>
+			<td>1,083</td>
+			<td>E.S. NAUT ARAN</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>BALAGUER                 </td>
+			<td>C/MARINADA,S/N.POL.IND.CAMP LLONG</td>
+			<td>24/05/2010</td>
+			<td>1,081</td>
+			<td>NOGUERAPARC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>BELLPUIG                 </td>
+			<td>CARRETERA LV3344 KM. 1,5</td>
+			<td>25/05/2010</td>
+			<td>0,983</td>
+			<td>E.S.ARENES BELLPUIG</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>ESPOT                    </td>
+			<td>C-134, KM  154</td>
+			<td>21/05/2010</td>
+			<td>1,083</td>
+			<td>LA TORRASSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 07:00-20:30; V: 07:00-21:30; S: 07:30-21:30; D: 08:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>FULIOLA (LA)             </td>
+			<td>C-53 km 127</td>
+			<td>23/05/2010</td>
+			<td>1,009</td>
+			<td>XOPLUC-PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>GOLMES                   </td>
+			<td>CRTA.N II, KM 486 POL.IND.GOLDPARK</td>
+			<td>25/05/2010</td>
+			<td>1,067</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>IVARS D'URGELL           </td>
+			<td>PLAZA BISBE COLL, 9</td>
+			<td>21/05/2010</td>
+			<td>0,977</td>
+			<td>COOP. IVARS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>LINYOLA                  </td>
+			<td>CTRA. LP-3322 km 9,7</td>
+			<td>24/05/2010</td>
+			<td>1,081</td>
+			<td>ASERLI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>LLEIDA</td>
+			<td>PARTIDA CTRA NACIONL II, N</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>ES. JAMAICA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>MOLLERUSSA               </td>
+			<td>RONDA DE PONENT, 1</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>PETROLIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>MONTFERRER               </td>
+			<td>CTRA. N-260 km 230</td>
+			<td>24/05/2010</td>
+			<td>1,080</td>
+			<td>VALENTI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>OLIANA                   </td>
+			<td>CARRETERA C-14 KM. 141,000</td>
+			<td>25/05/2010</td>
+			<td>1,076</td>
+			<td>ESTACIO SERVEI OLIANA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:30-22:00; D: 07:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>OLIUS                    </td>
+			<td>CTRA. MANRESA, C-55 km 77,50</td>
+			<td>24/05/2010</td>
+			<td>1,086</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>SANT RAMON               </td>
+			<td>N-141 km 11,4</td>
+			<td>24/05/2010</td>
+			<td>1,094</td>
+			<td>E.S. SANT RAMON</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>TARREGA                  </td>
+			<td>PG IND. LA CANALETA S/N (BARCELONA-MADRID km 507)</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LLEIDA</td>
+			<td>TARREGA                  </td>
+			<td>AV. CERVERA ESQ. MESTRE GÜELL  - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,079</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>LUGO</td>
+			<td>GUNTIN DE PALLARES       </td>
+			<td>CTRA. LUGO-SANTIAGO km 18,5</td>
+			<td>24/05/2010</td>
+			<td>1,072</td>
+			<td>E.S. GUNTIN</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>LUGO</td>
+			<td>LUGO                     </td>
+			<td>POLIGONO DEL CEAO (ACCESO AUTOVIA)</td>
+			<td>24/05/2010</td>
+			<td>1,056</td>
+			<td>(sin rótulo)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>LUGO</td>
+			<td>NOGAIS (AS)              </td>
+			<td>CTRA. N-VI km 447</td>
+			<td>24/05/2010</td>
+			<td>1,052</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MADRID                   </td>
+			<td>CALLE SANTO DOMINGO, 10</td>
+			<td>24/05/2010</td>
+			<td>1,036</td>
+			<td>SHELL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MADRID                   </td>
+			<td>AVENIDA NUESTRA SRA. DE FATIMA, 22</td>
+			<td>24/05/2010</td>
+			<td>1,067</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MADRID                   </td>
+			<td>CR M-607, 11,7</td>
+			<td>24/05/2010</td>
+			<td>1,075</td>
+			<td>PETROLANDIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MADRID                   </td>
+			<td>AVDA. DEMOCRACIA, 41</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MADRID                   </td>
+			<td>AVDA. DE LA DEMOCRACIA 62</td>
+			<td>24/05/2010</td>
+			<td>1,078</td>
+			<td>STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MIRAFLORES DE LA SIERRA  </td>
+			<td>CARRETERA M -611 KM. 7,6   GENERAL SANJURJO KM. 7,6</td>
+			<td>23/05/2010</td>
+			<td>1,075</td>
+			<td>EDV</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>MADRID</td>
+			<td>MOSTOLES                 </td>
+			<td>AVENIDA PORTUGAL (IZDO), 80</td>
+			<td>24/05/2010</td>
+			<td>1,075</td>
+			<td>AIDATER</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>ALAMEDA                  </td>
+			<td>CL PLAZA. CONSTITUCION, 14</td>
+			<td>24/05/2010</td>
+			<td>1,008</td>
+			<td>CAMPSA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>ALHAURIN DE LA TORRE     </td>
+			<td>AVDA.LAS AMERICAS S/N POLIGONO INDUSTRIAL</td>
+			<td>24/05/2010</td>
+			<td>1,044</td>
+			<td>LAS AMÉRICAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>BENALMADENA              </td>
+			<td>AV. ANTONIO MACHADO,11O</td>
+			<td>25/05/2010</td>
+			<td>1,047</td>
+			<td>BENAZAHAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-23:30</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>HUMILLADERO              </td>
+			<td>CARRETERA A-92 KM. 138,2</td>
+			<td>24/05/2010</td>
+			<td>1,064</td>
+			<td>ANTEQUERANA'S OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>HUMILLADERO              </td>
+			<td>CARRETERA A-92 KM. 135</td>
+			<td>24/05/2010</td>
+			<td>1,064</td>
+			<td>ANTEQUERANA'S OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>MIJAS                    </td>
+			<td>POLIGONO MOLINO DE VIENTO, 1</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>PETROLEROS MIJAS AGLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>PIZARRA                  </td>
+			<td>CTRA.SUBZONA A ALORA</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>EE.SS LA SERRANA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-22:30; S: 07:00-23:00; D: 07:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>TORRE DEL MAR            </td>
+			<td>CL ANGUSTIAS, 1</td>
+			<td>24/05/2010</td>
+			<td>1,064</td>
+			<td>LISBONA OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 6:00-23:00; S-D: 7:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>MÁLAGA</td>
+			<td>VELEZ-MALAGA             </td>
+			<td>CARRETERA MA-135 KM. 1,5</td>
+			<td>24/05/2010</td>
+			<td>1,084</td>
+			<td>MILCAPRO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MURCIA</td>
+			<td>ALCAZARES (LOS)          </td>
+			<td>AVENIDA LIBERTAD (DE LA), 138</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>LO SOLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-00:00; S: 06:00-01:30; D: 06:00-00:00</td>
+		</tr>
+
+		<tr>
+			<td>MURCIA</td>
+			<td>BALSAPINTADA             </td>
+			<td>PARAJE CASAS DE PACO PEDREÑO, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,034</td>
+			<td>INPESA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>MURCIA</td>
+			<td>MORATALLA                </td>
+			<td>CARRETERA CALASPARRA (DE) KM. 14,257</td>
+			<td>24/05/2010</td>
+			<td>0,935</td>
+			<td>E.S. SOMARES S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>MURCIA</td>
+			<td>SAN PEDRO DEL PINATAR    </td>
+			<td>PARAJE DE LOS PLAZAS S/N</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>LA RAYA DE CASTILLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>MURCIA</td>
+			<td>TOTANA                   </td>
+			<td>MAZARRON km 2</td>
+			<td>25/05/2010</td>
+			<td>1,025</td>
+			<td>COATO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>AIZOAIN                  </td>
+			<td>CTRA.GUIPUZCOA-N-240 km 5,5</td>
+			<td>25/05/2010</td>
+			<td>1,029</td>
+			<td>ESTACION DE SERVICIO ARALAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 05:30-22:30; D: 06:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>ARGUEDAS                 </td>
+			<td>NA-134 km 13,6</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>E.S.LA RECTA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>CORDOVILLA               </td>
+			<td>Bº LA  MOREA S/N (C.C. LECLERQ)</td>
+			<td>25/05/2010</td>
+			<td>1,030</td>
+			<td>E.LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 08:00-10:30</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>ETXARRI-ARANATZ          </td>
+			<td>POLIGONO ZUMURDIÑETA, 15</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>ETXARRI OIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>LARRAGA                  </td>
+			<td>CARRETERA CARRETERA LERÍN KM,2 KM. 2</td>
+			<td>24/05/2010</td>
+			<td>0,996</td>
+			<td>AN ENERGETICOS LARRAGA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>LEGARDA                  </td>
+			<td>AUTOVIA A-12 km 16,5</td>
+			<td>24/05/2010</td>
+			<td>1,045</td>
+			<td>ACCIONA BIOCOMBUSTIBLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>LEGARDA                  </td>
+			<td>AUTOVIA A-12 km 16,5</td>
+			<td>24/05/2010</td>
+			<td>1,045</td>
+			<td>ACCIONA BIOCOMBUSTIBLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>MILAGRO                  </td>
+			<td>NAVAS DE TOLOSA, 78 (VALTIERRA-SAN ADRIAN-NA-134 km 12,64)</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>ESM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00; D: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>OLITE                    </td>
+			<td>POLIGONO C/A, S/N</td>
+			<td>24/05/2010</td>
+			<td>0,998</td>
+			<td>AN ENERGETICOS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>PAMPLONA/IRUÑA           </td>
+			<td>CTRA. SAN SEBASTIAN (C.C. EROSKI) km 1</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:15-22:00; D: 08:15-22:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>PAMPLONA/IRUÑA           </td>
+			<td>CTRA. BADOSTAIN, 2</td>
+			<td>24/05/2010</td>
+			<td>1,056</td>
+			<td>IP591</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 07:00-23:00; V-S: 07:00-00:00; D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>PERALTA                  </td>
+			<td>CARRETERA PERALTA KM. 128</td>
+			<td>25/05/2010</td>
+			<td>1,028</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-21:30; D: 09:30-21:30</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>SARRIGUREN               </td>
+			<td>AVENIDA CIUDAD DE LA INNOVACION 5</td>
+			<td>18/05/2010</td>
+			<td>0,850</td>
+			<td>BIODIESEL ACCIONA</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>TAFALLA                  </td>
+			<td>CARRETERA ZARAGOZA, KM 33.5 KM. 33</td>
+			<td>23/05/2010</td>
+			<td>1,023</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>TUDELA                   </td>
+			<td>CTRA. ZARAGOZA (C.C. EROSKI),</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 09:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>NAVARRA</td>
+			<td>VIANA                    </td>
+			<td>N-134 km 96,5</td>
+			<td>24/05/2010</td>
+			<td>0,984</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00; D: 16:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>OURENSE</td>
+			<td>OURENSE                  </td>
+			<td>PROGRESO 97</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>OURENSE</td>
+			<td>OURENSE                  </td>
+			<td>CARRETERA N-525 KM. 242,400</td>
+			<td>21/05/2010</td>
+			<td>1,068</td>
+			<td>E.S. O VISO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>OURENSE</td>
+			<td>XINZO DE LIMIA           </td>
+			<td>VÍA PISTA ENLACE AUTOVIA RIAS BAIXAS, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,072</td>
+			<td>E.S. ANTELA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>PALENCIA</td>
+			<td>BARRUELO DE SANTULLAN    </td>
+			<td>AGUILAR-BARRUELO km 13,3</td>
+			<td>25/05/2010</td>
+			<td>1,052</td>
+			<td>LOS LINARES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>PALENCIA</td>
+			<td>CERVERA DE PISUERGA      </td>
+			<td>CARRETERA C-627 (BURGOS-POTES) KM. 107,7</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>J.L.SARDINA S.L.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>PALENCIA</td>
+			<td>PALENCIA                 </td>
+			<td>C/LOS TORNEROS 61</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>REPOSTAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-22:00; S-D: 08:00-20:00</td>
+		</tr>
+
+		<tr>
+			<td>PALENCIA</td>
+			<td>PALENCIA                 </td>
+			<td>CTRA. PALENCIA-ORENSE km 2,00</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>SUANCES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>PONTEVEDRA</td>
+			<td>BANDEIRA                 </td>
+			<td>CR N-525   P.K. 309,10 D</td>
+			<td>25/05/2010</td>
+			<td>1,062</td>
+			<td>ESTACION DE SERVICIO SAN JOSÉ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>PONTEVEDRA</td>
+			<td>PUENTE NUEVO             </td>
+			<td>CTRA. NACIONAL 550, KM. 167,2</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>SERTUY</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>PONTEVEDRA</td>
+			<td>VIGO                     </td>
+			<td>CALLE ALCALDE LAVADORES, 64</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>BYE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-00:00</td>
+		</tr>
+
+		<tr>
+			<td>PONTEVEDRA</td>
+			<td>VIGO</td>
+			<td>AVDA. AEROPORTO (CTRA. N-556 km 6,300)</td>
+			<td>25/05/2010</td>
+			<td>1,040</td>
+			<td>GALP</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>PONTEVEDRA</td>
+			<td>VIGO                     </td>
+			<td>AVENIDA GALICIA-TEIS, 165</td>
+			<td>24/05/2010</td>
+			<td>1,060</td>
+			<td>E.SERVICIO TEIS P.R.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>RIOJA (LA)</td>
+			<td>CALAHORRA                </td>
+			<td>CTRA. LOGROÑO, S/N  (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00; D: 00:00-00:00</td>
+		</tr>
+
+		<tr>
+			<td>RIOJA (LA)</td>
+			<td>LOGROÑO</td>
+			<td>C.C.EROSKI BERCEO</td>
+			<td>25/05/2010</td>
+			<td>1,018</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00; D: 09:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>RIOJA (LA)</td>
+			<td>LOGROÑO                  </td>
+			<td>POLIGONO INDUSTRIAL CANTABRIA 1, PARCELA 5</td>
+			<td>24/05/2010</td>
+			<td>1,046</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-22:00; S: 06:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>SALAMANCA</td>
+			<td>CARBAJOSA DE LA SAGRADA</td>
+			<td>AVDA. E. LECLERC,   Nº2 (C.C. E.LECLERC)</td>
+			<td>25/05/2010</td>
+			<td>1,037</td>
+			<td>E.LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SALAMANCA</td>
+			<td>VALDECARROS              </td>
+			<td>C-113 MACOTERA-ANAYA DE ALBA km 24,9</td>
+			<td>24/05/2010</td>
+			<td>1,053</td>
+			<td>AVIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 08:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>SALAMANCA</td>
+			<td>VILLARMAYOR              </td>
+			<td>CARRETERA CL-517 KM. 22,500</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>EUMOGAS, SL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEGOVIA</td>
+			<td>CUELLAR                  </td>
+			<td>SEGOVIA km 00</td>
+			<td>25/05/2010</td>
+			<td>0,998</td>
+			<td>AN GLUS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEGOVIA</td>
+			<td>FRESNO DE CANTESPINO     </td>
+			<td>NACIONAL 110 (SORIA-PLASENCIA) km 110,6</td>
+			<td>24/05/2010</td>
+			<td>1,070</td>
+			<td>BUQUERIN</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEGOVIA</td>
+			<td>LASTRILLA (LA)           </td>
+			<td>CL-601 (VALLADOLID-SEGOVIA) km 105</td>
+			<td>24/05/2010</td>
+			<td>1,045</td>
+			<td>REPOSTAR--EL MIRADOR DE LA LASTRILLA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>SEGOVIA</td>
+			<td>ZAMARRAMALA              </td>
+			<td>CL-605 km 1</td>
+			<td>24/05/2010</td>
+			<td>1,055</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>ALCALA DE GUADAIRA       </td>
+			<td>DISEMINADO CR SEVILLA-MALAGA, 9,600</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>ZACATÍN </td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>ALCALA DE GUADAIRA       </td>
+			<td>CRTA. SEVILLA-MALAGA km 7.700</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>NOVAOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>AZNALCAZAR               </td>
+			<td>RD BENACAZON - AZNALCAZAR</td>
+			<td>17/05/2010</td>
+			<td>1,075</td>
+			<td>(sin rótulo)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>CAMPANA (LA)             </td>
+			<td>AVDA. LORA DEL RÍO, S/Nº</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>E.S. SAN MIGUEL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>CARMONA                  </td>
+			<td>AUTOVIA A-4, KM. 496</td>
+			<td>25/05/2010</td>
+			<td>1,047</td>
+			<td>AGLA - LAS CUMBRES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 00:00-22:00; M: 07:30-00:00; X-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>CORIA DEL RIO            </td>
+			<td>AVDA. BATÁN, 85</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>E.S. EL ROCIO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>CORIA DEL RIO            </td>
+			<td>CARRETERA CTRA. SE-647 ALMENSILLA-CORIA KM 8.320 KM. 8,320</td>
+			<td>25/05/2010</td>
+			<td>1,100</td>
+			<td>E.S. IÑIGO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-22:30</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>CORRALES (LOS)           </td>
+			<td>LOS CORRALES - M. JARA (CTRA. A-360 km 102,6)</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>LOS MONTES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00; D: 08:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>ECIJA                    </td>
+			<td>AVD. GENIL, 18</td>
+			<td>25/05/2010</td>
+			<td>1,036</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>FUENTES DE ANDALUCIA     </td>
+			<td>CARRETERA CRTA- LA CAMPANA-FUENTES DE ANDALUCIA SE-220 KM. 9,750</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>GILENA                   </td>
+			<td>CARRETERA CTRA. SE-491, GILENA-PEDRERA KM. 11,0 KM. 11</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>LOS MONTES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>LORA DEL RIO             </td>
+			<td>CARRETERA LORA-CONSTANTINA KM. 72,659</td>
+			<td>17/05/2010</td>
+			<td>1,100</td>
+			<td>G.M.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>MONTELLANO               </td>
+			<td>VILLAMARTIN, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,031</td>
+			<td>DOS TORRES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>OSUNA                    </td>
+			<td>POLIGONO C/GUARNICIONEROS, 18,19</td>
+			<td>24/05/2010</td>
+			<td>1,032</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 6:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>PUEBLA DEL RIO (LA)      </td>
+			<td>AVDA. ISLA MAYOR,18</td>
+			<td>24/05/2010</td>
+			<td>1,069</td>
+			<td>E.S. SALVADOR CABELLO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:30-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>SANLUCAR LA MAYOR        </td>
+			<td>SANLUCAR-BENACAZÓN km 3</td>
+			<td>24/05/2010</td>
+			<td>1,047</td>
+			<td>SAJARDINES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:30-23:00; D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>SANTIPONCE               </td>
+			<td>AVENIDA EXTREMADURA Nº1 (SE-184 km 1,2)</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>E.S. DOLORES GONZALEZ VELAZQUEZ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>SEVILLA                  </td>
+			<td>C/ MEDINA Y GALNARES, 117 (C-433 (SEVILLA-CAZALLA DE LA S km 3)</td>
+			<td>21/05/2010</td>
+			<td>1,079</td>
+			<td>ESTACION DE SERVICIO SAN JERONIMO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-23:00; D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>SEVILLA                  </td>
+			<td>CTRA. NAC IV KM. 535.59 (VIA DE SERVICIO)</td>
+			<td>24/05/2010</td>
+			<td>1,099</td>
+			<td>PREMIUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>SEVILLA                  </td>
+			<td>CTRA. DE BRENES, A-8008, KM. 1 VALDEZORRAS</td>
+			<td>19/05/2010</td>
+			<td>1,108</td>
+			<td>PARRAGA E HIJOS</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>UTRERA                   </td>
+			<td>CARRETERA A-394 KM. 16</td>
+			<td>25/05/2010</td>
+			<td>1,054</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SEVILLA</td>
+			<td>VISO DEL ALCOR (EL)      </td>
+			<td>POLIGONO INDUSTRIAL POLIVISO PARCELA 2-3</td>
+			<td>24/05/2010</td>
+			<td>1,053</td>
+			<td>COMBUSTIBLES BASTILIPO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SORIA</td>
+			<td>ALMARZA                  </td>
+			<td>CARRETERA N-111 KM. 243,8</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>(SIN RÓTULO)</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>SORIA</td>
+			<td>ALMAZAN                  </td>
+			<td>CALLE HAYA, 10</td>
+			<td>23/05/2010</td>
+			<td>1,008</td>
+			<td>GAMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>SORIA</td>
+			<td>SORIA                    </td>
+			<td>CALLE J, 290</td>
+			<td>18/05/2010</td>
+			<td>1,000</td>
+			<td>E. LECLERC</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 09:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>ALCANAR                  </td>
+			<td>CARRETERA TV-3321 KM. 0,9</td>
+			<td>25/05/2010</td>
+			<td>1,096</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-S: 07:00-21:00; D: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>ALCOVER                  </td>
+			<td>CRTA.C-14 km 19,50</td>
+			<td>24/05/2010</td>
+			<td>0,987</td>
+			<td>LIBRE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:30-22:00; D: 07:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>AMETLLA DE MAR (L')      </td>
+			<td>CARRETERA CN-340 KM. 1110</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>ALAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-00:00; S-D: 08:00-20:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>AMETLLA DE MAR (L')      </td>
+			<td>CTRA. N-340</td>
+			<td>25/05/2010</td>
+			<td>1,064</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 08:00-18:30; M-V: 06:00-22:00; S-D: 00:00-00:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>AMETLLA DE MAR (L')      </td>
+			<td>CARRETERA N-340 KM. 1114</td>
+			<td>25/05/2010</td>
+			<td>1,064</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>AMPOSTA                  </td>
+			<td>PARTIDA TOSAS, 9106</td>
+			<td>25/05/2010</td>
+			<td>1,080</td>
+			<td>AMPOSTA-OIL CARBURANTS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-21:30; D: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>AMPOSTA                  </td>
+			<td>SAN CRISTOBAL S/N - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA</td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>ARBOÇ (L')               </td>
+			<td>N-340 km 1201,8</td>
+			<td>25/05/2010</td>
+			<td>1,090</td>
+			<td>PETROCAT</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>ARBOÇ (L')               </td>
+			<td>CARRETERA TP-2124 KM. 1,6</td>
+			<td>24/05/2010</td>
+			<td>1,097</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>BENIFALLET               </td>
+			<td>CARRETERA CTRA. C-12 L'EIX DE L'EBRE KM. 36,7</td>
+			<td>25/05/2010</td>
+			<td>1,081</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-20:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>CONSTANTI                </td>
+			<td>POLIGONO CONSTANTI - AVD.EUROPA, 5</td>
+			<td>24/05/2010</td>
+			<td>0,999</td>
+			<td>ALAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>HOSPITALET DE L'INFANT   </td>
+			<td>CR. CN-340 km 1121,8</td>
+			<td>24/05/2010</td>
+			<td>1,009</td>
+			<td>ALAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>MASOS DE COMA-RUGA (ELS)</td>
+			<td>N-340 km 1,187</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>PETROMIRALLES</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>MONTBLANC                </td>
+			<td>N-240 km 38,8</td>
+			<td>24/05/2010</td>
+			<td>1,081</td>
+			<td>"P7"   "PETRO7"</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>REUS                     </td>
+			<td>APEL·LES MESTRES 44-46</td>
+			<td>24/05/2010</td>
+			<td>1,052</td>
+			<td>ENTREAUTO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>RODA DE BARA             </td>
+			<td>CARRER HISPANO SUIZA, 1</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>SANTA BARBARA            </td>
+			<td>PS ESCOLES, 71</td>
+			<td>24/05/2010</td>
+			<td>1,074</td>
+			<td>DISPETAP ESTACIO SERVEIS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 07:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>TARRAGONA                </td>
+			<td>AUTOVIA AP-01 KM. 0,450</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-20:00; D: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>TARRAGONA</td>
+			<td>POL. INDUSTRIAL RIU-CLAR, C/ SOFRE Nº 3</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>BIONET</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>TORTOSA                  </td>
+			<td>CARRETERA EIX DE L'EBRE KM. S/N</td>
+			<td>24/05/2010</td>
+			<td>1,092</td>
+			<td>SIMPLY</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 09:30-21:45</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>VALLS                    </td>
+			<td>HIPER ESCLAT. ARTESANS,S/N POL.IND.VALLS</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>VANDELLOS                </td>
+			<td>ACCESO NORTE A VANDELLÒS (C-233 km 9,8)</td>
+			<td>24/05/2010</td>
+			<td>1,039</td>
+			<td>ALAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-13:00 y 15:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>VENDRELL (EL)            </td>
+			<td>AVENIDA DE LA GENERALITAT, 22</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>VENDRELL (EL)            </td>
+			<td>CRTA.246 KM 61'97 - C.C. CAPRABO</td>
+			<td>25/05/2010</td>
+			<td>1,086</td>
+			<td>SARAS ENERGIA </td>
+			<td>P</td>
+			<td>OM</td>
+			<td>L-D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>TARRAGONA</td>
+			<td>VINYOLS I ELS ARCS       </td>
+			<td>HIPER ESCLAT. CTRA. N-340 km 1.145</td>
+			<td>18/05/2010</td>
+			<td>1,069</td>
+			<td>ESCLATOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>ALCAUDETE DE LA JARA     </td>
+			<td>CTRA.N-502 km 87,4</td>
+			<td>24/05/2010</td>
+			<td>1,000</td>
+			<td>GASAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-23:00; S-D: 08:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>ALMOROX                  </td>
+			<td>CTRA-N-403-TOLEDO-AVILA km 62,5</td>
+			<td>24/05/2010</td>
+			<td>0,920</td>
+			<td>L.ESTEBAN</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>ESCALONA                 </td>
+			<td>CN-403 km P.K. 52</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>FARRUCO S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-23:00; S: 07:00-23:59; D: 07:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>MORA                     </td>
+			<td>CL/ TOLEDO 85 (C-400 km 30,7)</td>
+			<td>24/05/2010</td>
+			<td>1,100</td>
+			<td>HNOS.FERNANDEZ</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 08:00-20:00; S: 08:00-15:00</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>PUEBLA DE MONTALBAN (LA) </td>
+			<td>CM-4000 km P.K.29,0</td>
+			<td>25/05/2010</td>
+			<td>1,069</td>
+			<td>FARRUCO S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>SANTA OLALLA             </td>
+			<td>SAN ROQUE, 3</td>
+			<td>25/05/2010</td>
+			<td>1,079</td>
+			<td>FARRUCO S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-J: 06:00-22:00; V-S: 06:00-23:00; D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>TOLEDO</td>
+			<td>TORRIJOS                 </td>
+			<td>CM-4009 km P.K.14,4</td>
+			<td>25/05/2010</td>
+			<td>1,079</td>
+			<td>FARRUCO S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALAQUAS                  </td>
+			<td>CL. ALADRERS, 16 POLIGONO INDUSTRIAL ELS MOLLONS</td>
+			<td>24/05/2010</td>
+			<td>1,068</td>
+			<td>AMERICAN PETROL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALBERIC                  </td>
+			<td>CARRETERA CARCAGENTE KM. 12</td>
+			<td>19/05/2010</td>
+			<td>1,078</td>
+			<td>PETROMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALCUDIA (L')             </td>
+			<td>CALLE TEIXIDORS, S/N</td>
+			<td>24/05/2010</td>
+			<td>1,019</td>
+			<td>PETROMAX LEVANTE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALCUDIA (L')             </td>
+			<td>AVENIDA ANTONIO ALMELA, 1</td>
+			<td>24/05/2010</td>
+			<td>1,050</td>
+			<td>E.S. EL SERRALLO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALMUSSAFES               </td>
+			<td>POLIGONO PG I. JUAN CARLOS I, C/TRAMUNTANA, 7</td>
+			<td>17/05/2010</td>
+			<td>1,037</td>
+			<td>COAGAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALZIRA                   </td>
+			<td>AVDA. LUIS SUÑER, Nº 5</td>
+			<td>24/05/2010</td>
+			<td>1,030</td>
+			<td>EE SS PETROCU</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>ALZIRA                   </td>
+			<td>ALZIRA/CARCAIXENT km 0.400</td>
+			<td>24/05/2010</td>
+			<td>1,059</td>
+			<td>ALZICOOP CARBURANTS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>CATARROJA                </td>
+			<td>RAMON Y CAJAL, 97</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>PETROMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>CATARROJA                </td>
+			<td>RONDA NORTE INDUSTRIAL, 212</td>
+			<td>24/05/2010</td>
+			<td>1,049</td>
+			<td>PETROMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>CORBERA                  </td>
+			<td>POLIGONO GREGAL, 13</td>
+			<td>25/05/2010</td>
+			<td>1,087</td>
+			<td>COOPERATIVA DE CORBERA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>MONTAVERNER              </td>
+			<td>CAMI REIAL DE GANDIA, S/N</td>
+			<td>18/05/2010</td>
+			<td>1,075</td>
+			<td>PETROMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>MONTROY                  </td>
+			<td>CARRETERA MONSERRAT-MONTROY CV-405 KM. 1,8</td>
+			<td>25/05/2010</td>
+			<td>1,029</td>
+			<td>CENTRE LA ALQUERIA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>MUSEROS                  </td>
+			<td>AVENIDA BARCELONA, 117</td>
+			<td>24/05/2010</td>
+			<td>1,077</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-22:00; S-D: 08:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>OLLERIA (L')             </td>
+			<td>RAVALET,23</td>
+			<td>25/05/2010</td>
+			<td>1,049</td>
+			<td>PETROMAR</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 07:00-21:00; S: 08:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>PICASSENT                </td>
+			<td>CALLE PARIDERA, 2</td>
+			<td>24/05/2010</td>
+			<td>1,070</td>
+			<td>MEROIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 06:00-22:00; S-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>PICASSENT                </td>
+			<td>CARRETERA VP-3065 KM. 18,4</td>
+			<td>25/05/2010</td>
+			<td>1,077</td>
+			<td>TAMOIL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 06:00-22:00; D: 06:30-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>REQUENA                  </td>
+			<td>CALLE TRANSPORTE, 9</td>
+			<td>24/05/2010</td>
+			<td>1,079</td>
+			<td>GVEGA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>SAGUNTO                  </td>
+			<td>AVENIDA DE LA VILA, SN</td>
+			<td>24/05/2010</td>
+			<td>1,072</td>
+			<td>OCTAPLUS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALENCIA / VALÈNCIA</td>
+			<td>SILLA                    </td>
+			<td>AVENIDA L'AMET, 32</td>
+			<td>24/05/2010</td>
+			<td>1,012</td>
+			<td>CST</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALLADOLID</td>
+			<td>CIGALES                  </td>
+			<td>CTRA. VALLADOLID - CIGALES , KM. 1,7</td>
+			<td>24/05/2010</td>
+			<td>1,028</td>
+			<td>E.S. REAL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALLADOLID</td>
+			<td>VALLADOLID               </td>
+			<td>C/ EURO, 17</td>
+			<td>24/05/2010</td>
+			<td>1,048</td>
+			<td>E.S. MERCAOLID</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 05:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VALLADOLID</td>
+			<td>VEGA DE VALDETRONCO      </td>
+			<td>N-VI km 196,9</td>
+			<td>24/05/2010</td>
+			<td>1,050</td>
+			<td>REPOSTAR-LA TORRE</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>VALLADOLID</td>
+			<td>ZARATÁN</td>
+			<td>ADVA. GIJON, N-601 km 194,6</td>
+			<td>24/05/2010</td>
+			<td>1,054</td>
+			<td>REPOSTAR--ZARATAN</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>ABADIÑO-ZELAIETA         </td>
+			<td>CTRA.FORAL BI-633 km 32,3</td>
+			<td>24/05/2010</td>
+			<td>1,032</td>
+			<td>EUSKOIL-STAR PETROLEUM</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L: 07:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>ABADIÑO-ZELAIETA         </td>
+			<td>Bº MURUETA, S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00; D: 09:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>ARIZGOITI                </td>
+			<td>Bº ZABALANDI S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-22:30; D: 09:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>ELEJABEITIA              </td>
+			<td>CRTA. N-240 BILBAO - VITORIA (N-240 km 26)</td>
+			<td>24/05/2010</td>
+			<td>1,058</td>
+			<td>ARTEA OIL , S.A.</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 06:00-22:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>LEIOA</td>
+			<td>Bº PERURI, S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,028</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00; D: 09:00-13:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>LEIOA</td>
+			<td>Avd. Iparaguirre 110,  (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,028</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:30; D: 09:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>PORTUGALETE              </td>
+			<td>AVENIDA VEGA DE IBARRA, S/N</td>
+			<td>25/05/2010</td>
+			<td>1,028</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:00-21:00; D: 09:00-21:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>SAN VICENTE DE BARAKALDO </td>
+			<td>KAREAGA N, PARCELA XV,POL. 3 (c.c. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,038</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 08:00-22:00; D: 09:00-14:00</td>
+		</tr>
+
+		<tr>
+			<td>VIZCAYA</td>
+			<td>ZALLA</td>
+			<td>Bº EL BAULAR, S/N (C.C. EROSKI)</td>
+			<td>25/05/2010</td>
+			<td>1,018</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-S: 07:30-21:30</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>CALATAYUD                </td>
+			<td>POLIGONO MEDIAVEGA, 14</td>
+			<td>24/05/2010</td>
+			<td>1,009</td>
+			<td>ALAS</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>GARRAPINILLOS            </td>
+			<td>RONDA CANAL IMPERIAL DE ARAGON, 8</td>
+			<td>25/05/2010</td>
+			<td>0,998</td>
+			<td>EROSKI</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-V: 08:00-22:30; S: 10:00-22:30</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>ONTINAR DE SALZ          </td>
+			<td>CALLE COOPERATIVA, 2</td>
+			<td>24/05/2010</td>
+			<td>0,990</td>
+			<td>SOCIEDAD COOPERATIVA AGRARIA SAN ISIDRO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>SIERRA DE LUNA           </td>
+			<td>CARRETERA ZUERA-LUNA KM. 24,100</td>
+			<td>25/05/2010</td>
+			<td>0,999</td>
+			<td>ARENTO SIERRA DE LUNA</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>VILLAMAYOR DE GALLEGO</td>
+			<td>CAMINO MOLINO, DEL, 105</td>
+			<td>24/05/2010</td>
+			<td>1,013</td>
+			<td>EL PUEYO</td>
+			<td>R</td>
+			<td>dm</td>
+			<td>L-D: 06:00-23:00</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>ZARAGOZA                 </td>
+			<td>CR A-68, 242,7  D</td>
+			<td>24/05/2010</td>
+			<td>1,029</td>
+			<td>REPSOL</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+		<tr>
+			<td>ZARAGOZA</td>
+			<td>ZUERA                    </td>
+			<td>CALLE AUSTRIA, 11,17</td>
+			<td>25/05/2010</td>
+			<td>1,000</td>
+			<td>COOP.SAN LICER - ARENTO</td>
+			<td>P</td>
+			<td>dm</td>
+			<td>L-D: 24H</td>
+		</tr>
+
+	</table>
+</body>
+</html>

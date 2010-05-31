@@ -1,0 +1,4 @@
+cron:
+- description: daily get oil prices
+  url: /tasks/get_oil_prices.py
+  schedule: every 24 hours

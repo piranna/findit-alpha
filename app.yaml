@@ -3,12 +3,18 @@ version: 2
 runtime: python
 api_version: 1
 
+
 handlers:
+
 - url: /js
   static_dir: js
+
+- url: /tasks/get_oil_prices.py
+  script: /python/FindIt/get_oil_prices.py
+  login: admin
 
 - url: /xml
   static_dir: xml
 
 - url: /.*
-  script: python
+  script: /python/FindIt
